@@ -5,7 +5,6 @@ import matplotlib
 import matplotlib.pyplot as plt
 matplotlib.style.use('dark_background') 
 
-from torch import mean
 st.set_page_config(layout="wide")
 
 
